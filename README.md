@@ -1,2 +1,3 @@
-# MiniProjetR
-Miniprojet de biostatistiques sur l'expression de gène avant-après superenroulement.
+# Supercoiled-DNA-Expression
+
+A succinct biostatistics project on genes expression before and after supercoiling.
